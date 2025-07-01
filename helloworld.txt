@@ -1,0 +1,2 @@
+print(Hello Yashwant,Good Afternoon)
+print(Have a good day!)
